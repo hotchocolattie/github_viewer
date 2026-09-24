@@ -7,6 +7,21 @@ const languageColors = {
   TypeScript: '#3b82f6',
   Rust: '#f97316',
   Python: '#22c55e',
+  HTML: '#e34c26',
+  CSS: '#563d7c',
+  C: '#555555',
+  'C++': '#f34b7d',
+  Java: '#b07219',
+  Go: '#00add8',
+  Ruby: '#701516',
+  PHP: '#4f5d95',
+  Swift: '#f05138',
+  Kotlin: '#a97bff',
+  Shell: '#89e051',
+  Dart: '#00b4ab',
+  Vue: '#41b883',
+  Scala: '#c22d40',
+  R: '#198ce7',
 };
 
 function App() {
