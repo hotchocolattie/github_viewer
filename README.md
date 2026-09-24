@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000)!
+3. Open [http://localhost:3000](http://localhost:3000) (or whatever port you're using)!
 
 ## Using the App
 
